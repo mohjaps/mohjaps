@@ -2,13 +2,16 @@
 
 Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Things
 
-
-
 - 🔭 Interested In Software Development, Problem Solving, Software Structuring
 - 🌱 I’m currently learning JavaScript Full Stack Development
 - 📫 How to reach me: moh.ja.ps@gmail.com
 - ⚡ Fun fact: Fond Of Errors 😂
 
+## [Status](#)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohjaps&count_private=true" />
+</div>
 
 ## [🔗 Find Me](#)
 [![portfolio](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//972595264875/)
