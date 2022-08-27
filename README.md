@@ -13,7 +13,7 @@ Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Th
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
-## Fav Languages 
+## [Techniques & Tools](#) 
 <p align="left"> 
     
  ![Linux](https://img.shields.io/badge/-linux-000?&logo=linux)
