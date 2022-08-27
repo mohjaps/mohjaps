@@ -19,8 +19,8 @@ Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Th
  ![Linux](https://img.shields.io/badge/-linux-000?&logo=linux)
  ![Windows](https://img.shields.io/badge/-windows-000?&logo=windows)
  
- ![C#](https://img.shields.io/badge/-csharp-7014e8?&logo=csharp&logocolor=ffffff)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+ ![C#](https://img.shields.io/badge/-csharp-000?&logo=csharp&logocolor=7014e8)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logocolor=fff)
  ![Dart](https://img.shields.io/badge/-dart-000?&logo=dart)
  
 ![SQL server](https://img.shields.io/badge/-mssql-000?&logo=mssql)
@@ -32,14 +32,27 @@ Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Th
 ![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js)
+![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
 
-![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap&logoColor=7014e8)
+
+![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
+![YARN](https://img.shields.io/badge/-yarn-000?&logo=yarn)
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Azure DevOps](https://img.shields.io/badge/-azuredevops-000?&logo=azuredevops)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GITLAB](https://img.shields.io/badge/-gitlab-000?&logo=gitlab)
+![JIRA](https://img.shields.io/badge/-jira-000?&logo=jira)
+
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-000?&logo=visualstudio&logoColor=7014e8)
 ![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
-![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
+![Android Studio](https://img.shields.io/badge/-androidstudio-000?&logo=androidstudio)
+![Rider](https://img.shields.io/badge/-rider-000?&logo=rider)
+![Py charm](https://img.shields.io/badge/-pycharm-000?&logo=pycharm)
+
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
@@ -84,7 +97,8 @@ Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Th
 
 
 ## [🔗 Find Me](#)
-[![portfolio](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//972595264875/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//972595264875/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohjaps/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/moh_ja_ps/)
+[![FaceBook](https://img.shields.io/badge/facebook-fff?style=for-the-badge&logo=facebook)](https://www.facebook.com/moh.ja.pal/)
 
