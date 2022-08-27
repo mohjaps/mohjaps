@@ -49,6 +49,14 @@ Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Th
 
 <br>
 <p align=center>
+
+<div align="center">
+  <a align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohjaps&no-frame=true&column=-1&theme=onestar" />
+  </a>
+</div>
+
+ <br><br><br>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=mohjaps&theme=react&border=61dafb&hide_border=true" alt="mohjaps" />
@@ -57,6 +65,8 @@ Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Th
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=mohjaps&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  
+  
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -77,5 +87,4 @@ Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Th
 [![portfolio](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//972595264875/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohjaps/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/moh_ja_ps/)
-
 
