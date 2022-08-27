@@ -1,9 +1,14 @@
-### [Mohammed Jaber](#) 👋
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohjaps&style=square" alt="mspronesti" />
-</h2>
 
+
+  <h1 align="center" style="color: #2085ff">Mohammed Jaber 👋 
+  <a align="right">
+    <img src="https://komarev.com/ghpvc/?username=mohjaps&style=square" alt="mohjaps" />
+  </a></h1>
+
+
+<p align="center">
 Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Things
+</p>
 
 - 🔭 Interested In Software Development, Problem Solving, Software Structuring
 - 🌱 I’m currently learning JavaScript Full Stack Development
