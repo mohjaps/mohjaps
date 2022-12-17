@@ -15,6 +15,7 @@ Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Th
 - 📫 How to reach me: moh.ja.ps@gmail.com
 - ✨ You Can Ask Me [HERE](https://github.com/mohjaps/mohjaps/issues)
 - ⚡ Fun fact: Fond Of Errors 😂
+- 📄 [My CV](https://github.com/mohjaps/mohjaps/blob/main/Mohammed%20Jaber%20CV.docx%20.pdf)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
