@@ -11,7 +11,7 @@ Hi, I'm ✨ Mohammed A S Jaber ✨, Developer, Engineer, Intern, Learning New Th
 </p>
 
 - 🔭 Interested In Software Development, Problem Solving, Software Structuring
-- 🌱 I’m currently learning JavaScript Full Stack Development
+- 🌱 I’m currently Studying Software Engineering
 - 📫 How to reach me: moh.ja.ps@gmail.com
 - ✨ You Can Ask Me [HERE](https://github.com/mohjaps/mohjaps/issues)
 - ⚡ Fun fact: Fond Of Errors 😂
